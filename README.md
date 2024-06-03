@@ -8,8 +8,7 @@ This project allows users to upload multiple PDF files and ask questions based o
 - [Installation](#installation)
 - [Usage](#usage)
 - [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - Upload multiple PDF files
